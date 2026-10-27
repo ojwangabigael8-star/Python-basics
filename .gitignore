@@ -1,0 +1,9 @@
+.venv/
+.env
+secrets/mpesa/
+# .gitignore
+
+# git init
+# git add .
+# git commit -m "Python Basics"
+# git remote add origin https
