@@ -14,3 +14,4 @@ if age >= 18:
     print( name," is an Adult")
 else:
     print(name," is a Child")
+#lits, booleans, tuples, dictionary, loops
