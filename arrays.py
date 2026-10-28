@@ -1,7 +1,7 @@
 # store  many items
-from dateutil.relativedelta import weekdays
 
-from bmi import weight, height
+
+
 
 ages = [21,43,45,77,95,16,18,92] #list
 
