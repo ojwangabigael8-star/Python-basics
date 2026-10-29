@@ -1,9 +1,19 @@
 .venv/
 .env
 secrets/mpesa/
+*.mp3
+*.txt
+*.webm
+!requirements.txt
 # .gitignore
 
 # git init
 # git add .
 # git commit -m "Python Basics"
-# git remote add origin https
+# git remote add origin https://github.com/ojwangabigael8-star/pythonproject.git
+# git push -u origin master
+
+
+# pip freeze > requirements.txt
+
+# pip install -r requirements.txt
