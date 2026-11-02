@@ -17,3 +17,6 @@ def addition(*nums):
     Returns:
      Integers or floats
     """
+def my_function(a:int, b:float):
+    return a/b
+    # modules and packages
